@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Ho Chi Minh City",
+			"country": {
+				"code": "VN",
+				"name": "Vietnam"
+			},
+			"subdivision": {
+				"code": "SG",
+				"name": "Ho Chi Minh"
+			},
+			"timezone": "Asia/Ho_Chi_Minh",
+			"latitude": 10.822,
+			"longitude": 106.6257
+		},
+		"timestamp": 1681578553501
+	},
+	"siteId": "04bccae0-6ae7-481d-9c69-4d36c5341587"
+}
