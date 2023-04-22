@@ -6,7 +6,6 @@ import utilStyles from '../../styles/utils.module.css';
 
 // import { useRouter } from "next/router";
 import Head from "next/head";
-import date from "../../components/date";
 
 export async function getStaticPaths() {
     const paths = getAllPostIds();
